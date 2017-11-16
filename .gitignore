@@ -19,4 +19,4 @@ tmp
 # Ignore Byebug command history file.
 .byebug_history
 
-database.yml
+config/database.yml
