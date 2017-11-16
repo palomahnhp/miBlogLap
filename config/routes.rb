@@ -1,5 +1,9 @@
 Rails.application.routes.draw do
 
+  get 'articulos/new'
+
+  get 'articulos/index'
+
   get 'home/index'
   root 'home#index'
 
